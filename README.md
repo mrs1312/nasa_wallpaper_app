@@ -1,6 +1,6 @@
 # nasawallpaperapp
 
-A new Flutter application for nasa wallpapers
+A new Flutter application for wallpapers
 
 ## Getting Started
 
